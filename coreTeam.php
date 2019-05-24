@@ -551,7 +551,7 @@
             <div class="col-md-4">
                 <div class="fh5co-person text-center to-animate">
                     <figure>
-                        <img src="team/ishaan.jpg" alt="Image">
+                        <img src="team/ishan.jpg" alt="Image">
                     </figure>
                     <h3>Ishan Agarwal</h3>
                     <span class="fh5co-position">Executive, Corporate Relations</span>
