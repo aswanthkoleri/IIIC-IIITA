@@ -497,7 +497,7 @@
             <div class="col-md-6">
                 <div class="fh5co-person text-center to-animate">
                     <figure>
-                        <img src="team/pratham2.jpg" alt="Image">
+                        <img src="team/pratham2.jpeg" alt="Image">
                     </figure>
                     <h3>Pratham Prakash Gupta</h3>
                     <span class="fh5co-position">Head, Corporate Relations</span>
